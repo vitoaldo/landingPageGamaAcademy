@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 
-import ContactPage from './pages/contact'
+// import ContactPage from './pages/contact'
 import AboutPage from './pages/about'
-import FaqsPage from './pages/faqs'
-import SupportPage from './pages/support'
+// import FaqsPage from './pages/faqs'
+// import SupportPage from './pages/support'
 import IndexPage from './pages'
 
 class App extends Component {
