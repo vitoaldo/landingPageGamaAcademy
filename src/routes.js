@@ -12,10 +12,10 @@ class App extends Component {
 		return (
 			<Router basename={process.env.PUBLIC_URL}>
 				<Switch>
-					<Route exact path="/contact" component={ContactPage} />
+					{/* <Route exact path="/contact" component={ContactPage} /> */}
 					<Route exact path="/about" component={AboutPage} />
-					<Route exact path="/faqs" component={FaqsPage} />
-					<Route exact path="/support" component={SupportPage} />
+					{/* <Route exact path="/faqs" component={FaqsPage} /> */}
+					{/* <Route exact path="/support" component={SupportPage} /> */}
 					<Route exact path="/" component={IndexPage} />
 				</Switch>
 			</Router>
