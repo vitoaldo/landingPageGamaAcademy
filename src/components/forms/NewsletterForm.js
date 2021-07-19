@@ -48,7 +48,7 @@ class NewsletterForm extends Component {
 				listaEmails = localStorage.getItem('emails')
 				if (listaEmails !== null && listaEmails !== undefined) {
 					if (listaEmails.length > 0) {
-						listaEmails.split(',')
+						listaEmails = listaEmails.split(',')
 					}
 				} else {
 					listaEmails = []
