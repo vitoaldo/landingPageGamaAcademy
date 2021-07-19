@@ -1,6 +1,4 @@
 import React from 'react'
-
-import SocialLinks from './SocialLinks'
 import NavLinks from './NavLinks'
 
 export default function Footer() {
