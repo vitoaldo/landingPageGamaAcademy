@@ -20,7 +20,7 @@ class NewsletterForm extends Component {
 
 		function validarEmailJaCadastrado(a) {
 			const emails = localStorage.getItem('emails')
-			if (emails) {
+			if (emails.length > 0) {
 				const listaEmailsArmazenados = emails.split(',')
 				return !listaEmailsArmazenados.some((x) => x === a)
 			}
