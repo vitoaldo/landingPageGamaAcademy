@@ -50,6 +50,8 @@ class NewsletterForm extends Component {
 					if (listaEmails.length > 0) {
 						listaEmails.split(',')
 					}
+				} else {
+					listaEmails = []
 				}
 				listaEmails.push(email)
 				localStorage.setItem('emails', listaEmails)
