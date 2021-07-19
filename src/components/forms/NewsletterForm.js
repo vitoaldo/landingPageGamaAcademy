@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import classnames from 'classnames'
 
 class NewsletterForm extends Component {
-constructor(props) {
+	constructor(props) {
 		super(props)
 		this.state = { listaEmails: [] }
 	}
