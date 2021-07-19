@@ -2,7 +2,7 @@
   "name": "holly_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lukemcdonald.github.io/holly-react",
+  "homepage": "landingpagehollyreactgamaacademy.netlify.app",
   "scripts": {
     "build:css": "postcss \"src/assets/css/postcss.css\" -o \"src/assets/css/style.css\" --no-map",
     "build:js": "react-scripts build",
