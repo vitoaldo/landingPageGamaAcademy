@@ -2,6 +2,8 @@ Landing Page feita para o desafio da Gama Academy, feito com o auxilio do Holly 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/48d716a1-4935-423b-84b6-86e013ad3bec/deploy-status)](https://app.netlify.com/sites/landingpagehollyreactgamaacademy/deploys)
 
+https://landingpagehollyreactgamaacademy.netlify.app/
+
 # Holly
 
 A React implementation of [Davide Pacilio's](https://gumroad.com/davidepacilio) free landing page template. His design and layout has been rebuilt with React using [`create-react-app`](https://github.com/facebook/create-react-app). The motivation in doing this was to for my own practice and implementation of what I am learning in React.
