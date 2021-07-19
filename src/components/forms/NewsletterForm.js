@@ -45,7 +45,12 @@ class NewsletterForm extends Component {
 		function armazenarEmail() {
 			const resultado = validacoes(email)
 			if (resultado.valido) {
-				listaEmails = localStorage.getItem('emails').split(',')
+				listaEmails = localStorage.getItem('emails')
+				if (listaEmails !== null && listaEmails !== undefined) {
+					if (listaEmails.length > 0) {
+						listaEmails.split(',')
+					}
+				}
 				listaEmails.push(email)
 				localStorage.setItem('emails', listaEmails)
 			}
