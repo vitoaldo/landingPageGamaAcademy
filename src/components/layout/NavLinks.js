@@ -2,10 +2,10 @@ import React from 'react'
 import { NavLink } from 'react-router-dom'
 
 const NAV_LINKS = [
-	{ text: 'Contact', href: '/contact' },
-	{ text: 'About Us', href: '/about' },
-	{ text: "FAQ's", href: '/faqs' },
-	{ text: 'Support', href: '/support' },
+	// { text: 'Contact', href: '/contact' },
+	{ text: 'Sobre o Holly-React', href: '/about' },
+	// { text: "FAQ's", href: '/faqs' },
+	// { text: 'Support', href: '/support' },
 ]
 export default function NavLinks({ className }) {
 	return (

@@ -3,652 +3,237 @@ import React, { Fragment } from 'react'
 export default function HeroIllustration() {
 	return (
 		<>
-			<div
-				className="absolute is-revealing"
-				style={{ top: '-88px', left: '92px' }}
+			<svg
+				version="1.0"
+				xmlns="http://www.w3.org/2000/svg"
+				width="752.000000pt"
+				height="703.000000pt"
+				viewBox="0 0 752.000000 703.000000"
+				preserveAspectRatio="xMidYMid meet"
 			>
-				<svg
-					width="124"
-					height="64"
-					viewBox="0 0 124 64"
-					xmlns="http://www.w3.org/2000/svg"
+				<g
+					transform="translate(0.000000,703.000000) scale(0.100000,-0.100000)"
+					fill="#000000"
+					stroke="none"
 				>
-					<defs>
-						<linearGradient
-							x1="0%"
-							y1="50%"
-							x2="114.418%"
-							y2="50%"
-							id="squares-1-a"
-						>
-							<stop stopColor="#6EFACC" offset="0%" />
-							<stop stopColor="#6EFACC" stopOpacity="0" offset="100%" />
-						</linearGradient>
-					</defs>
 					<path
-						d="M0 0h4v4H0V0zm0 12h4v4H0v-4zm0 12h4v4H0v-4zm0 12h4v4H0v-4zm0 12h4v4H0v-4zm0 12h4v4H0v-4zM12 0h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zM24 0h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zM36 0h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zM48 0h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zM60 0h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zM72 0h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zM84 0h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zM96 0h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm12-60h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm12-60h4v4h-4V0zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4z"
-						fill="url(#squares-1-a)"
-						fillRule="evenodd"
+						d="M3296 6774 c-19 -18 -19 -20 -6 -45 14 -26 33 -24 67 6 27 24 28 25
+9 40 -25 19 -51 19 -70 -1z"
 					/>
-				</svg>
-			</div>
-			<div
-				className="absolute is-revealing"
-				style={{ top: '474px', left: '165px' }}
-			>
-				<svg
-					width="64"
-					height="88"
-					viewBox="0 0 64 88"
-					xmlns="http://www.w3.org/2000/svg"
-				>
-					<defs>
-						<linearGradient
-							x1="0%"
-							y1="50%"
-							x2="114.418%"
-							y2="50%"
-							id="squares-2-a"
-						>
-							<stop stopColor="#6EFACC" offset="0%" />
-							<stop stopColor="#6EFACC" stopOpacity="0" offset="100%" />
-						</linearGradient>
-					</defs>
 					<path
-						d="M80 574h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm12-60h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm12-60h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm12-60h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm12-60h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm12-60h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm12-60h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm12-60h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4zm0 12h4v4h-4v-4z"
-						transform="rotate(90 359 279)"
-						fill="url(#squares-2-a)"
-						fillRule="evenodd"
+						d="M973 6469 c-129 -49 -235 -237 -220 -386 17 -168 164 -322 336 -353
+118 -21 234 15 315 98 53 56 66 111 73 319 l6 173 -43 44 c-58 60 -124 94
+-215 111 -105 20 -189 18 -252 -6z"
 					/>
-				</svg>
-			</div>
-			<div
-				className="absolute hero-ball hero-ball-1 is-revealing"
-				style={{ top: '-190px', left: '417px' }}
-			>
-				<svg
-					width="400"
-					height="400"
-					viewBox="0 0 400 400"
-					xmlns="http://www.w3.org/2000/svg"
-				>
-					<defs>
-						<radialGradient
-							cx="56.15%"
-							cy="27.43%"
-							fx="56.15%"
-							fy="27.43%"
-							r="57.526%"
-							gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)"
-							id="ball-1-a"
-						>
-							<stop stopColor="#F8F7FF" offset="0%" />
-							<stop stopColor="#DAD8FF" offset="34.827%" />
-							<stop stopColor="#9B95F3" offset="100%" />
-						</radialGradient>
-						<filter
-							x="-500%"
-							y="-500%"
-							width="1000%"
-							height="1000%"
-							filterUnits="objectBoundingBox"
-							id="dropshadow-ball-1"
-						>
-							<feOffset
-								dx="24"
-								dy="24"
-								in="SourceAlpha"
-								result="shadowOffsetOuter"
-							/>
-							<feGaussianBlur
-								stdDeviation="24"
-								in="shadowOffsetOuter"
-								result="shadowBlurOuter"
-							/>
-							<feColorMatrix
-								values="0 0 0 0 0.10 0 0 0 0 0.17 0 0 0 0 0.21 0 0 0 0.22 0"
-								in="shadowBlurOuter"
-							/>
-						</filter>
-					</defs>
-					<circle
-						cx="200"
-						cy="200"
-						r="200"
-						fill="#FFF"
-						fillRule="evenodd"
-						filter="url(#dropshadow-ball-1)"
+					<path
+						d="M3562 6078 c-19 -19 -14 -82 9 -112 11 -14 24 -26 28 -26 13 0 32 76
+25 96 -8 22 -34 54 -44 54 -3 0 -11 -5 -18 -12z"
 					/>
-					<circle
-						cx="200"
-						cy="200"
-						r="200"
-						fill="url(#ball-1-a)"
-						fillRule="evenodd"
+					<path
+						d="M4191 5972 c-18 -17 -30 -43 -35 -71 -11 -71 -61 -153 -158 -256
+-131 -139 -175 -155 -247 -89 -40 35 -53 64 -66 136 -6 39 -32 62 -57 53 -7
+-3 -26 -34 -43 -68 -27 -56 -33 -62 -63 -65 -19 -2 -46 1 -60 6 -15 6 -77 28
+-138 50 -110 39 -182 80 -227 128 l-23 25 -60 -78 c-33 -43 -81 -92 -106 -110
+-26 -17 -105 -50 -175 -73 -186 -62 -201 -71 -288 -174 -27 -33 -69 -72 -94
+-88 l-45 -28 35 0 c58 0 136 -28 173 -63 43 -41 59 -99 54 -193 -4 -81 -14
+-99 -85 -144 l-41 -27 32 -11 c119 -43 164 -232 90 -379 -25 -51 -36 -62 -88
+-88 -56 -28 -64 -30 -222 -33 l-164 -4 0 411 c0 226 -4 411 -8 411 -4 0 -32
+-25 -62 -56 -62 -63 -97 -84 -137 -84 -40 1 -68 19 -138 90 -50 49 -69 62 -96
+63 -32 2 -34 0 -37 -34 -2 -27 5 -49 28 -85 34 -54 45 -87 66 -207 27 -158 11
+-238 -60 -292 -43 -32 -106 -136 -131 -213 -9 -29 -32 -75 -52 -103 -51 -74
+-70 -125 -99 -267 -30 -145 -57 -234 -85 -273 -14 -20 -19 -44 -19 -91 0 -98
+-28 -131 -180 -217 -33 -19 -60 -38 -60 -42 0 -3 30 -26 66 -50 81 -52 195
+-161 219 -209 23 -43 23 -131 2 -181 -21 -47 -78 -97 -119 -103 -18 -3 -63 -8
+-100 -11 -82 -8 -146 -39 -171 -83 -24 -40 -32 -132 -22 -245 7 -84 7 -86 36
+-92 19 -4 73 6 160 30 162 46 211 48 246 12 23 -22 27 -37 33 -116 10 -119 33
+-165 118 -239 72 -61 134 -122 169 -165 21 -26 22 -27 116 -20 85 5 99 4 141
+-16 31 -16 48 -31 52 -48 8 -32 -10 -95 -34 -116 -28 -26 -99 -47 -156 -47
+-75 0 -127 -18 -162 -55 -78 -83 -61 -211 33 -251 50 -21 94 -17 185 18 72 27
+96 32 178 32 79 0 103 -4 144 -23 61 -29 126 -88 184 -166 24 -33 56 -68 70
+-77 31 -21 89 -23 161 -6 47 10 56 9 120 -17 94 -37 145 -33 225 21 89 59 118
+74 150 74 17 0 75 -25 135 -57 107 -59 159 -103 266 -227 l50 -58 60 25 c94
+40 184 60 265 60 97 0 152 -16 198 -57 79 -71 144 -82 255 -45 124 41 159 78
+188 196 23 92 86 182 129 183 8 0 70 -34 138 -75 68 -41 126 -75 129 -75 3 0
+20 -10 37 -22 17 -13 52 -34 78 -47 26 -14 44 -29 41 -34 -3 -6 -1 -7 6 -3 6
+4 32 -6 58 -23 26 -17 64 -39 85 -48 21 -9 38 -20 38 -25 0 -4 7 -8 15 -8 8 0
+15 -5 15 -11 0 -6 6 -9 14 -6 8 3 22 -1 33 -8 31 -24 13 -48 203 275 40 69
+100 170 132 224 32 55 57 105 54 111 -2 7 -77 54 -165 106 -121 70 -161 99
+-161 113 0 11 18 57 40 102 33 69 56 98 131 171 104 101 114 117 124 197 4 32
+15 77 25 100 21 50 96 120 171 160 140 75 148 95 89 232 -50 116 -64 187 -55
+268 9 78 30 131 60 150 14 9 57 21 96 26 99 14 119 20 119 35 0 21 -10 24
+-125 40 -133 19 -189 46 -275 134 -102 104 -111 173 -32 256 65 69 255 240
+307 277 65 46 142 74 262 94 54 9 140 29 191 46 83 26 95 33 119 69 14 22 23
+42 20 45 -3 4 -40 11 -81 17 -130 19 -270 -24 -432 -133 -172 -115 -214 -89
+-294 180 -12 41 -42 112 -66 157 -49 91 -56 139 -28 214 18 51 95 342 91 346
+-2 1 -25 -13 -51 -32 -58 -41 -108 -59 -141 -51 -29 7 -252 155 -278 184 -15
+16 -19 39 -21 105 -2 70 -7 92 -29 129 -42 72 -42 72 -156 52 -131 -23 -160
+-15 -217 59 -45 58 -79 78 -217 126 -112 38 -119 43 -198 117 -76 71 -96 79
+-177 70 -45 -5 -64 -2 -92 12 -69 38 -70 94 0 231 43 87 49 121 24 145 -22 23
+-42 20 -73 -12z m-89 -714 c84 -46 128 -146 128 -288 l0 -70 -94 0 -94 0 -4
+99 c-3 80 -7 104 -23 121 -27 30 -81 24 -109 -13 -20 -27 -21 -43 -24 -280 -3
+-280 4 -330 50 -356 21 -12 30 -12 56 -2 41 17 52 53 52 162 l0 89 96 0 97 0
+-6 -97 c-12 -215 -89 -303 -264 -303 -130 1 -200 46 -245 159 -22 53 -23 70
+-23 326 0 259 1 272 23 327 27 66 92 130 150 147 62 17 185 7 234 -21z m-1222
+-393 l0 -405 95 0 95 0 0 -65 0 -65 -190 0 -190 0 0 470 0 470 95 0 95 0 0
+-405z m570 401 c0 -7 168 -785 184 -856 9 -36 16 -68 16 -72 0 -5 -42 -8 -94
+-8 l-94 0 -18 100 -19 100 -62 0 -62 0 -10 -52 c-5 -29 -14 -73 -18 -98 l-9
+-45 -92 -3 c-75 -2 -92 0 -92 12 0 14 47 237 145 681 25 116 48 218 51 228 5
+14 18 17 90 17 46 0 84 -2 84 -4z m1062 -168 l3 -172 42 104 c23 58 54 135 70
+172 l28 68 108 0 107 0 -96 -192 -96 -192 101 -270 c56 -149 101 -275 101
+-279 0 -4 -44 -6 -97 -5 l-97 3 -68 204 c-37 112 -70 206 -72 209 -3 2 -12
+-13 -20 -33 -12 -29 -16 -76 -16 -211 l0 -174 -95 0 -95 0 0 470 0 470 95 0
+95 0 2 -172z m-2112 -913 l0 -65 -100 0 -100 0 0 -125 0 -125 70 0 70 0 0 -70
+0 -70 -70 0 -70 0 0 -210 0 -210 -95 0 -95 0 0 470 0 470 195 0 195 0 0 -65z
+m443 32 c86 -43 111 -86 115 -198 6 -138 -16 -186 -117 -255 -1 -2 29 -101 68
+-222 39 -121 71 -223 71 -226 0 -4 -44 -5 -97 -4 l-97 3 -46 185 c-26 102 -50
+197 -53 213 -4 15 -14 27 -22 27 -12 0 -15 -34 -17 -212 l-3 -213 -92 -3 -93
+-3 0 472 0 471 163 -3 c154 -4 165 -5 220 -32z m387 -437 l0 -471 -92 3 -93 3
+-3 468 -2 467 95 0 95 0 0 -470z m506 439 c27 -14 59 -40 72 -59 42 -63 47
+-101 47 -370 0 -289 -7 -335 -61 -398 -51 -60 -99 -73 -286 -79 l-158 -6 0
+473 0 472 168 -4 c157 -3 172 -5 218 -29z m529 9 c3 -13 32 -149 65 -303 33
+-154 76 -352 95 -439 19 -88 35 -163 35 -168 0 -4 -42 -8 -93 -8 l-94 0 -18
+100 -18 100 -63 0 -62 0 -17 -100 -18 -100 -94 0 c-59 0 -93 4 -93 11 0 5 5
+29 10 52 6 23 48 220 95 437 47 217 87 405 90 418 5 21 10 22 90 22 80 0 85
+-1 90 -22z m400 -170 c22 -103 43 -189 46 -192 3 -3 25 82 50 189 l44 195 88
+0 c79 0 88 -2 83 -17 -2 -10 -37 -133 -76 -273 -40 -140 -78 -277 -86 -304 -9
+-33 -14 -100 -14 -198 l0 -148 -90 0 -90 0 0 156 c0 155 0 157 -46 317 -78
+277 -124 447 -124 457 0 7 32 10 87 8 l88 -3 40 -187z m22 -935 c66 -31 91
+-109 57 -176 -18 -34 -512 -847 -523 -859 -4 -4 -47 -20 -96 -35 -50 -16 -97
+-33 -106 -38 -18 -11 -18 -3 15 -214 8 -52 13 -98 10 -103 -8 -12 -1641 -10
+-1685 2 -59 17 -84 52 -84 120 0 99 47 130 200 130 l97 0 -58 108 c-31 59 -72
+134 -89 167 -18 33 -78 146 -133 250 -55 105 -134 255 -177 335 -91 169 -101
+214 -63 270 14 20 38 40 58 47 26 9 345 12 1288 12 1151 1 1257 0 1289 -16z
+m809 -152 c20 -12 38 -35 48 -63 22 -58 6 -112 -43 -145 -32 -22 -43 -23 -221
+-23 l-187 0 -143 -232 c-242 -395 -282 -458 -290 -458 -5 0 -50 24 -102 54
+-51 29 -99 55 -106 57 -8 3 7 36 46 99 33 52 102 165 154 250 53 85 136 220
+184 299 57 92 100 151 119 163 27 16 54 18 270 18 219 0 243 -2 271 -19z m-46
+-762 c0 -35 -17 -48 -74 -55 l-48 -7 28 54 c15 30 34 65 42 77 l16 24 17 -34
+c10 -18 18 -45 19 -59z m-1233 -275 c3 -9 2 -28 -3 -43 -13 -38 -66 -42 -89
+-7 -10 15 -14 33 -10 46 5 16 15 20 51 20 32 0 46 -5 51 -16z m406 -70 c37
+-24 55 -49 44 -60 -3 -3 -26 11 -52 30 -51 39 -88 45 -117 19 -29 -26 -21 -63
+27 -127 54 -72 58 -105 16 -147 -33 -32 -64 -36 -114 -16 -36 16 -97 64 -97
+78 0 12 27 12 32 0 7 -19 83 -61 111 -61 38 0 67 25 67 58 0 13 -20 51 -45 84
+-48 65 -56 98 -29 136 33 48 89 49 157 6z m192 -334 c-14 -91 -28 -166 -31
+-169 -2 -3 -9 0 -15 6 -7 7 -7 29 1 73 6 34 10 63 8 64 -2 1 -27 16 -56 34
+-29 18 -56 32 -60 32 -4 0 -29 -18 -56 -39 -27 -22 -55 -37 -63 -34 -7 3 -13
+7 -13 9 0 1 33 28 73 58 39 31 108 83 152 117 77 59 80 61 83 37 2 -13 -9 -98
+-23 -188z m202 81 c-2 -10 -37 -73 -77 -140 -52 -88 -69 -125 -62 -134 6 -6
+36 -25 66 -42 31 -16 56 -36 56 -42 0 -20 -16 -16 -74 22 -30 19 -59 35 -64
+35 -5 0 -15 6 -21 14 -10 12 -9 20 2 38 8 13 47 78 86 146 65 110 102 153 88
+103z m-2082 -12 c151 -71 163 -291 21 -374 -150 -88 -326 12 -326 184 0 62 10
+89 52 136 64 74 166 95 253 54z m1128 -8 c-3 -10 0 -22 6 -25 6 -4 11 -14 11
+-22 0 -23 21 -40 92 -76 35 -18 77 -43 95 -55 17 -13 36 -23 41 -23 6 0 14 -5
+17 -10 4 -6 3 -10 -2 -9 -19 3 -27 -2 -14 -10 12 -8 12 -14 1 -43 -39 -99
+-158 -151 -262 -114 -139 50 -188 211 -99 333 40 56 125 96 114 54z m1248
+-133 c65 -40 83 -58 58 -58 -6 0 -38 16 -71 35 -33 19 -63 33 -68 30 -7 -4
+-60 -93 -60 -100 0 -2 29 -20 65 -41 61 -36 79 -54 54 -54 -6 0 -39 16 -74 36
+l-64 35 -12 -23 c-6 -13 -22 -41 -35 -64 l-24 -41 70 -39 c38 -21 68 -43 66
+-49 -2 -5 -8 -9 -13 -8 -19 4 -153 85 -153 93 0 5 30 60 67 122 36 62 73 125
+82 140 9 16 22 28 30 28 8 0 45 -19 82 -42z"
 					/>
-				</svg>
-			</div>
-			<div
-				className="absolute hero-ball hero-ball-2 is-revealing"
-				style={{ top: '335px', left: '-64px' }}
-			>
-				<svg
-					width="200"
-					height="200"
-					viewBox="0 0 200 200"
-					xmlns="http://www.w3.org/2000/svg"
-				>
-					<defs>
-						<radialGradient
-							cx="56.15%"
-							cy="27.43%"
-							fx="56.15%"
-							fy="27.43%"
-							r="57.526%"
-							gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)"
-							id="ball-2-a"
-						>
-							<stop stopColor="#F8F7FF" offset="0%" />
-							<stop stopColor="#DAD8FF" offset="34.827%" />
-							<stop stopColor="#9B95F3" offset="100%" />
-						</radialGradient>
-						<filter
-							x="-500%"
-							y="-500%"
-							width="1000%"
-							height="1000%"
-							filterUnits="objectBoundingBox"
-							id="dropshadow-ball-2"
-						>
-							<feOffset
-								dx="24"
-								dy="24"
-								in="SourceAlpha"
-								result="shadowOffsetOuter"
-							/>
-							<feGaussianBlur
-								stdDeviation="24"
-								in="shadowOffsetOuter"
-								result="shadowBlurOuter"
-							/>
-							<feColorMatrix
-								values="0 0 0 0 0.10 0 0 0 0 0.17 0 0 0 0 0.21 0 0 0 0.22 0"
-								in="shadowBlurOuter"
-							/>
-						</filter>
-					</defs>
-					<circle
-						cx="100"
-						cy="100"
-						r="100"
-						fill="#FFF"
-						fillRule="evenodd"
-						filter="url(#dropshadow-ball-2)"
+					<path
+						d="M3361 4975 c-1 -5 -10 -68 -21 -140 -29 -190 -29 -185 25 -185 l46 0
+-7 53 c-14 104 -42 282 -43 272z"
 					/>
-					<circle
-						cx="100"
-						cy="100"
-						r="100"
-						fill="url(#ball-2-a)"
-						fillRule="evenodd"
+					<path
+						d="M2650 3985 l0 -125 31 0 c17 0 39 4 49 10 50 27 55 200 6 232 -6 4
+-28 8 -48 8 l-38 0 0 -125z"
 					/>
-				</svg>
-			</div>
-			<div className="hero-illustration-browser is-revealing">
-				<svg
-					width="800"
-					height="450"
-					viewBox="0 0 800 450"
-					xmlns="http://www.w3.org/2000/svg"
-				>
-					<defs>
-						<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="browser-a">
-							<stop stopColor="#F89595" offset="0%" />
-							<stop stopColor="#EF5C5C" offset="100%" />
-						</linearGradient>
-						<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="browser-b">
-							<stop stopColor="#FFDFB0" offset="0%" />
-							<stop stopColor="#FFBB78" offset="100%" />
-						</linearGradient>
-						<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="browser-c">
-							<stop stopColor="#83E78D" offset="0%" />
-							<stop stopColor="#4BCA55" offset="100%" />
-						</linearGradient>
-						<filter
-							x="-30%"
-							y="-42.9%"
-							width="184%"
-							height="220%"
-							filterUnits="objectBoundingBox"
-							id="browser-d"
-						>
-							<feOffset
-								dx="24"
-								dy="24"
-								in="SourceAlpha"
-								result="shadowOffsetOuter1"
-							/>
-							<feGaussianBlur
-								stdDeviation="24"
-								in="shadowOffsetOuter1"
-								result="shadowBlurOuter1"
-							/>
-							<feColorMatrix
-								values="0 0 0 0 0.866666667 0 0 0 0 0.905882353 0 0 0 0 0.937254902 0 0 0 0.56 0"
-								in="shadowBlurOuter1"
-								result="shadowMatrixOuter1"
-							/>
-							<feMerge>
-								<feMergeNode in="shadowMatrixOuter1" />
-								<feMergeNode in="SourceGraphic" />
-							</feMerge>
-						</filter>
-						<linearGradient
-							x1="19.946%"
-							y1="72.147%"
-							x2="73.772%"
-							y2="18.374%"
-							id="browser-e"
-						>
-							<stop stopColor="#F8F7FF" offset="0%" />
-							<stop stopColor="#DAD8FF" offset="100%" />
-						</linearGradient>
-						<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="browser-f">
-							<stop stopColor="#DAD8FF" offset="0%" />
-							<stop stopColor="#857DF3" offset="100%" />
-						</linearGradient>
-						<linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="browser-g">
-							<stop stopColor="#DAD8FF" offset="0%" />
-							<stop stopColor="#CDCAFF" offset="100%" />
-						</linearGradient>
-						<linearGradient
-							x1="94.808%"
-							y1="-15.701%"
-							x2="6.924%"
-							y2="82.567%"
-							id="browser-h"
-						>
-							<stop stopColor="#5DFBD7" stopOpacity="0" offset="0%" />
-							<stop stopColor="#5DFBD7" offset="100%" />
-						</linearGradient>
-						<linearGradient
-							x1="1.733%"
-							y1="-10.509%"
-							y2="77.375%"
-							id="browser-i"
-						>
-							<stop stopColor="#6EFACC" stopOpacity="0" offset="0%" />
-							<stop stopColor="#6EFACC" offset="100%" />
-						</linearGradient>
-						<linearGradient
-							x1="92.458%"
-							y1="5.866%"
-							x2="0%"
-							y2="100%"
-							id="browser-j"
-						>
-							<stop stopColor="#5DFBD7" offset="0%" />
-							<stop stopColor="#5DFBD7" stopOpacity="0" offset="100%" />
-						</linearGradient>
-						<linearGradient
-							x1="92.458%"
-							y1="5.866%"
-							x2="0%"
-							y2="100%"
-							id="browser-k"
-						>
-							<stop stopColor="#5DFBD7" stopOpacity="0" offset="0%" />
-							<stop stopColor="#5DFBD7" stopOpacity="0.513" offset="48.724%" />
-							<stop stopColor="#5DFBD7" stopOpacity="0" offset="100%" />
-						</linearGradient>
-						<linearGradient
-							x1="92.458%"
-							y1="5.866%"
-							x2="0%"
-							y2="100%"
-							id="browser-l"
-						>
-							<stop stopColor="#5DFBD7" stopOpacity="0" offset="0%" />
-							<stop stopColor="#5DFBD7" stopOpacity="0.513" offset="47.494%" />
-							<stop stopColor="#5DFBD7" stopOpacity="0" offset="100%" />
-						</linearGradient>
-						<filter
-							x="-23.1%"
-							y="-21.8%"
-							width="192.3%"
-							height="187.3%"
-							filterUnits="objectBoundingBox"
-							id="browser-m"
-						>
-							<feOffset
-								dx="24"
-								dy="24"
-								in="SourceAlpha"
-								result="shadowOffsetOuter1"
-							/>
-							<feGaussianBlur
-								stdDeviation="12"
-								in="shadowOffsetOuter1"
-								result="shadowBlurOuter1"
-							/>
-							<feColorMatrix
-								values="0 0 0 0 0.866666667 0 0 0 0 0.905882353 0 0 0 0 0.937254902 0 0 0 0.56 0"
-								in="shadowBlurOuter1"
-								result="shadowMatrixOuter1"
-							/>
-							<feMerge>
-								<feMergeNode in="shadowMatrixOuter1" />
-								<feMergeNode in="SourceGraphic" />
-							</feMerge>
-						</filter>
-						<linearGradient
-							x1="100%"
-							y1="50%"
-							x2="-57.904%"
-							y2="50%"
-							id="browser-n"
-						>
-							<stop stopColor="#DAD8FF" offset="0%" />
-							<stop stopColor="#857DF3" offset="100%" />
-						</linearGradient>
-						<filter
-							x="-500%"
-							y="-500%"
-							width="1000%"
-							height="1000%"
-							filterUnits="objectBoundingBox"
-							id="dropshadow-1"
-						>
-							<feOffset dy="16" in="SourceAlpha" result="shadowOffsetOuter" />
-							<feGaussianBlur
-								stdDeviation="24"
-								in="shadowOffsetOuter"
-								result="shadowBlurOuter"
-							/>
-							<feColorMatrix
-								values="0 0 0 0 0.10 0 0 0 0 0.17 0 0 0 0 0.21 0 0 0 0.22 0"
-								in="shadowBlurOuter"
-							/>
-						</filter>
-					</defs>
-					<g fill="none" fillRule="evenodd">
-						<rect
-							width="800"
-							height="450"
-							rx="2"
-							fill="#FFF"
-							filter="url(#dropshadow-1)"
-						/>
-						<rect width="800" height="450" rx="2" fill="#FFF" />
-						<path fill="#DDE7EF" d="M0 32h800v1H0z" />
-						<circle fill="url(#browser-a)" cx="24" cy="16" r="4" />
-						<circle fill="url(#browser-b)" cx="40" cy="16" r="4" />
-						<circle fill="url(#browser-c)" cx="56" cy="16" r="4" />
-						<g
-							filter="url(#browser-d)"
-							transform="translate(505 196)"
-							fillRule="nonzero"
-						>
-							<path
-								d="M100 100l100-50.426L103.193.762a7.087 7.087 0 0 0-6.393 0L0 49.574 100 100z"
-								fill="url(#browser-e)"
-							/>
-							<path
-								d="M199 90L99 139.875v-40L199 50v40z"
-								fill="url(#browser-f)"
-							/>
-							<path
-								d="M100 139.875L0 90V50l100 49.875v40z"
-								fill="url(#browser-g)"
-							/>
-						</g>
-						<g strokeWidth="2">
-							<path
-								stroke="url(#browser-h)"
-								d="M498.336 298.7l-62.117 30.105L194 208"
-								transform="translate(169 54)"
-							/>
-							<path
-								d="M511.219 127.805L269 7"
-								stroke="url(#browser-i)"
-								transform="translate(169 54)"
-							/>
-							<path
-								d="M312 157.547L533.512 43"
-								stroke="url(#browser-j)"
-								transform="translate(169 54)"
-							/>
-							<path
-								d="M222 114.547L443.512 0"
-								stroke="url(#browser-k)"
-								transform="translate(169 54)"
-							/>
-							<path
-								d="M0 356.547L221.512 242"
-								stroke="url(#browser-l)"
-								transform="translate(169 54)"
-							/>
-							<path
-								d="M215 319.266L312.031 268"
-								stroke="url(#browser-j)"
-								transform="translate(169 54)"
-							/>
-						</g>
-						<g
-							filter="url(#browser-m)"
-							transform="scale(-1 1) rotate(45 -338.122 -406.594)"
-							fillRule="nonzero"
-						>
-							<path
-								d="M52 0L.511 70.268a2.668 2.668 0 0 0-.478 1.987 2.63 2.63 0 0 0 1.076 1.732L52 110V0z"
-								fill="url(#browser-e)"
-							/>
-							<path
-								d="M103.49 70.27L52 0v110l50.89-36.011a2.637 2.637 0 0 0 1.077-1.732 2.669 2.669 0 0 0-.476-1.987z"
-								fill="url(#browser-n)"
-							/>
-						</g>
-					</g>
-				</svg>
-			</div>
-			<div
-				className="absolute hero-ball hero-ball-3 is-revealing"
-				style={{ top: '402px', left: '440px' }}
-			>
-				<svg
-					width="80"
-					height="80"
-					viewBox="0 0 80 80"
-					xmlns="http://www.w3.org/2000/svg"
-				>
-					<defs>
-						<radialGradient
-							cx="56.15%"
-							cy="27.43%"
-							fx="56.15%"
-							fy="27.43%"
-							r="57.526%"
-							gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)"
-							id="ball-3-a"
-						>
-							<stop stopColor="#F8F7FF" offset="0%" />
-							<stop stopColor="#DAD8FF" offset="34.827%" />
-							<stop stopColor="#9B95F3" offset="100%" />
-						</radialGradient>
-						<filter
-							x="-500%"
-							y="-500%"
-							width="1000%"
-							height="1000%"
-							filterUnits="objectBoundingBox"
-							id="dropshadow-ball-3"
-						>
-							<feOffset
-								dx="24"
-								dy="24"
-								in="SourceAlpha"
-								result="shadowOffsetOuter"
-							/>
-							<feGaussianBlur
-								stdDeviation="24"
-								in="shadowOffsetOuter"
-								result="shadowBlurOuter"
-							/>
-							<feColorMatrix
-								values="0 0 0 0 0.10 0 0 0 0 0.17 0 0 0 0 0.21 0 0 0 0.22 0"
-								in="shadowBlurOuter"
-							/>
-						</filter>
-					</defs>
-					<circle
-						cx="40"
-						cy="40"
-						r="40"
-						fill="#FFF"
-						fillRule="evenodd"
-						filter="url(#dropshadow-ball-3)"
+					<path
+						d="M3547 4114 c-4 -4 -7 -155 -7 -336 l0 -328 48 0 c26 0 53 5 60 12 9
+9 12 93 12 314 0 262 -2 305 -16 318 -8 9 -23 16 -32 16 -9 0 -26 3 -37 6 -11
+3 -24 2 -28 -2z"
 					/>
-					<circle
-						cx="40"
-						cy="40"
-						r="40"
-						fill="url(#ball-3-a)"
-						fillRule="evenodd"
+					<path
+						d="M4157 3847 c-9 -61 -19 -136 -23 -164 l-7 -53 47 0 c29 0 46 4 46 12
+0 17 -41 312 -44 315 -1 2 -10 -48 -19 -110z"
 					/>
-				</svg>
-			</div>
-			<div
-				className="absolute hero-ball hero-ball-4 is-revealing"
-				style={{ top: '-75px', left: '290px' }}
-			>
-				<svg
-					width="40"
-					height="40"
-					viewBox="0 0 40 40"
-					xmlns="http://www.w3.org/2000/svg"
-				>
-					<defs>
-						<radialGradient
-							cx="56.15%"
-							cy="27.43%"
-							fx="56.15%"
-							fy="27.43%"
-							r="57.526%"
-							gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)"
-							id="ball-4-a"
-						>
-							<stop stopColor="#F8F7FF" offset="0%" />
-							<stop stopColor="#DAD8FF" offset="34.827%" />
-							<stop stopColor="#9B95F3" offset="100%" />
-						</radialGradient>
-						<filter
-							x="-500%"
-							y="-500%"
-							width="1000%"
-							height="1000%"
-							filterUnits="objectBoundingBox"
-							id="dropshadow-ball-4"
-						>
-							<feOffset
-								dx="24"
-								dy="24"
-								in="SourceAlpha"
-								result="shadowOffsetOuter"
-							/>
-							<feGaussianBlur
-								stdDeviation="24"
-								in="shadowOffsetOuter"
-								result="shadowBlurOuter"
-							/>
-							<feColorMatrix
-								values="0 0 0 0 0.10 0 0 0 0 0.17 0 0 0 0 0.21 0 0 0 0.22 0"
-								in="shadowBlurOuter"
-							/>
-						</filter>
-					</defs>
-					<circle
-						cx="20"
-						cy="20"
-						r="20"
-						fill="#FFF"
-						fillRule="evenodd"
-						filter="url(#dropshadow-ball-4)"
+					<path
+						d="M2372 2873 c2 -5 18 -36 36 -70 l32 -63 940 0 940 0 35 55 c20 30 38
+62 41 70 5 13 -112 15 -1011 15 -559 0 -1015 -3 -1013 -7z"
 					/>
-					<circle
-						cx="20"
-						cy="20"
-						r="20"
-						fill="url(#ball-4-a)"
-						fillRule="evenodd"
+					<path
+						d="M2580 2485 c0 -2 14 -34 32 -70 l32 -65 721 0 721 0 37 63 c20 35 37
+67 37 70 0 4 -355 7 -790 7 -434 0 -790 -2 -790 -5z"
 					/>
-				</svg>
-			</div>
-			<div
-				className="absolute hero-ball hero-ball-5 is-revealing"
-				style={{ top: '500px' }}
-			>
-				<svg
-					width="24"
-					height="24"
-					viewBox="0 0 24 24"
-					xmlns="http://www.w3.org/2000/svg"
-				>
-					<defs>
-						<radialGradient
-							cx="56.15%"
-							cy="27.43%"
-							fx="56.15%"
-							fy="27.43%"
-							r="57.526%"
-							gradientTransform="matrix(.5626 -.82673 .8022 .54591 .026 .589)"
-							id="ball-5-a"
-						>
-							<stop stopColor="#F8F7FF" offset="0%" />
-							<stop stopColor="#DAD8FF" offset="34.827%" />
-							<stop stopColor="#9B95F3" offset="100%" />
-						</radialGradient>
-						<filter
-							x="-500%"
-							y="-500%"
-							width="1000%"
-							height="1000%"
-							filterUnits="objectBoundingBox"
-							id="dropshadow-ball-5"
-						>
-							<feOffset
-								dx="24"
-								dy="24"
-								in="SourceAlpha"
-								result="shadowOffsetOuter"
-							/>
-							<feGaussianBlur
-								stdDeviation="24"
-								in="shadowOffsetOuter"
-								result="shadowBlurOuter"
-							/>
-							<feColorMatrix
-								values="0 0 0 0 0.10 0 0 0 0 0.17 0 0 0 0 0.21 0 0 0 0.22 0"
-								in="shadowBlurOuter"
-							/>
-						</filter>
-					</defs>
-					<circle
-						cx="12"
-						cy="12"
-						r="12"
-						fill="#FFF"
-						fillRule="evenodd"
-						filter="url(#dropshadow-ball-5)"
+					<path
+						d="M2790 2088 c0 -4 12 -32 27 -63 l27 -55 506 0 505 0 30 53 c17 28 30
+56 30 60 0 13 -995 9 -1011 -4 -10 -8 -17 -7 -29 5 -16 16 -85 19 -85 4z"
 					/>
-					<circle
-						cx="12"
-						cy="12"
-						r="12"
-						fill="url(#ball-5-a)"
-						fillRule="evenodd"
+					<path
+						d="M4748 1643 c-32 -24 -58 -48 -58 -52 0 -9 73 -51 88 -51 9 0 38 137
+31 145 -2 1 -30 -17 -61 -42z"
 					/>
-				</svg>
-			</div>
+					<path
+						d="M1344 5616 c-4 -9 -4 -47 -2 -85 4 -74 4 -74 128 -245 58 -80 65 -76
+65 44 -1 57 -6 86 -24 122 -26 53 -87 127 -132 159 -25 18 -30 18 -35 5z"
+					/>
+					<path
+						d="M5382 5519 c-23 -4 -47 -11 -52 -14 -11 -7 -30 -71 -30 -103 0 -21 3
+-23 33 -17 61 13 99 53 108 114 5 29 -3 31 -59 20z"
+					/>
+					<path
+						d="M2280 5019 l0 -122 37 6 c57 10 75 34 80 114 5 59 2 72 -17 96 -17
+21 -30 27 -61 27 l-39 0 0 -121z"
+					/>
+					<path
+						d="M2280 4626 l0 -156 39 0 c23 0 48 8 62 19 23 18 24 26 24 125 0 100
+-1 107 -26 131 -14 14 -42 28 -62 32 l-37 6 0 -157z"
+					/>
+					<path
+						d="M6380 4495 c-44 -20 -75 -49 -107 -98 -36 -57 -27 -67 57 -67 80 0
+134 21 169 66 24 31 27 76 6 94 -23 19 -87 22 -125 5z"
+					/>
+					<path
+						d="M1005 4281 c-3 -6 21 -28 52 -49 58 -39 65 -40 86 -6 4 7 -3 23 -14
+38 -17 22 -29 26 -69 26 -27 0 -51 -4 -55 -9z"
+					/>
+					<path
+						d="M6302 3483 c-12 -2 -27 -13 -33 -25 -12 -23 -13 -21 99 -98 81 -55
+93 -57 150 -34 l39 15 -14 42 c-17 50 -50 82 -101 96 -37 11 -96 12 -140 4z"
+					/>
+					<path
+						d="M822 3160 c-21 -20 -21 -22 -6 -46 23 -35 50 -48 58 -28 10 26 7 69
+-6 82 -16 16 -21 15 -46 -8z"
+					/>
+					<path
+						d="M933 2930 c-17 -10 -37 -28 -43 -39 -10 -19 -8 -21 25 -21 20 0 46 5
+58 11 28 15 67 50 67 61 0 16 -75 8 -107 -12z"
+					/>
+					<path
+						d="M6695 2795 c-5 -2 -22 -6 -37 -9 -16 -4 -28 -13 -28 -22 0 -21 56
+-100 76 -108 18 -7 124 39 124 54 0 16 -51 69 -73 75 -38 11 -52 13 -62 10z"
+					/>
+					<path
+						d="M6280 2485 c0 -8 6 -15 13 -16 6 0 33 -4 60 -8 45 -7 47 -7 47 16 0
+22 -4 23 -60 23 -47 0 -60 -3 -60 -15z"
+					/>
+					<path
+						d="M1262 1503 c-83 -126 -152 -232 -152 -237 0 -12 68 3 110 24 53 27
+118 98 151 165 39 81 76 275 51 275 -4 0 -76 -102 -160 -227z"
+					/>
+					<path
+						d="M5892 1707 l-22 -23 40 -39 c39 -38 40 -38 55 -19 37 47 37 52 -2 79
+-46 30 -44 30 -71 2z"
+					/>
+					<path
+						d="M6175 1710 c-18 -20 -18 -21 5 -45 28 -30 35 -31 66 -6 l24 19 -34
+26 c-41 31 -38 31 -61 6z"
+					/>
+					<path
+						d="M2282 834 c-52 -65 -57 -77 -38 -93 13 -11 21 -9 45 8 31 22 46 65
+39 113 -3 23 -6 21 -46 -28z"
+					/>
+					<path
+						d="M6020 850 c-24 -24 -26 -53 -4 -71 32 -26 63 15 50 67 -8 29 -20 30
+-46 4z"
+					/>
+					<path
+						d="M3564 348 c4 -46 11 -86 14 -90 14 -15 51 5 62 32 15 37 -1 92 -37
+120 -42 33 -46 27 -39 -62z"
+					/>
+				</g>
+			</svg>
 		</>
 	)
 }

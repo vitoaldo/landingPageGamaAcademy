@@ -30,7 +30,7 @@ class Hero extends Component {
 
 							<NewsletterForm
 								className="max-w-md m-0 mt-8 hero-form md:flex"
-								submit="Get early access"
+								submit="Cadastre-se!"
 							/>
 						</div>
 
